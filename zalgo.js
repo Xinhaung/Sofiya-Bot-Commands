@@ -12,8 +12,8 @@ module.exports = {
 		longDescription: "",
 		category: "text",
 		guide: {
-			vi: "{pn} text",
-			en: "{pn} text"
+			vi: "{pn} your text",
+			en: "{pn} your text"
 		}
 	},
 
